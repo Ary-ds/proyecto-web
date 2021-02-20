@@ -1,0 +1,32 @@
+
+body{
+    background: url('../img/cielo.jpg');
+    background-attachment: fixed;
+}
+
+#logo{
+    background:  #1f87c4;
+}
+
+#menu ul li:hover{
+    background:  #1f87c4;
+}
+
+.leer-mas{
+    background:  #1f87c4;
+}
+
+
+.btn{
+    background:  #1f87c4;
+    color: white;
+}
+
+#logout{
+   
+    background:  #1f87c4;
+    color: white;
+    padding: 10px;
+    border-radius: 15px;
+
+}
